@@ -1,0 +1,19 @@
+{
+ "name": "wefetch · The AI agentic shopping barcode engine · 84M GTINs, 70 countries",
+ "description": "The AI agentic shopping engine. 84 million GTIN barcodes in 70 countries for consumer AI agents.",
+ "url": "https://wefetch.ai/",
+ "version": "1",
+ "provider": {
+  "organization": "wefetch",
+  "url": "https://wefetch.ai"
+ },
+ "documentationUrl": "https://wefetch.ai/llms.txt",
+ "capabilities": {},
+ "skills": [],
+ "defaultInputModes": [
+  "application/json"
+ ],
+ "defaultOutputModes": [
+  "application/json"
+ ]
+}
